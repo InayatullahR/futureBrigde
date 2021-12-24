@@ -1,0 +1,20 @@
+.card{
+    display: flex;
+    flex-wrap: wrap;
+}
+.nav{
+    background-color: aqua;
+}
+.app{
+    margin-left: 40px;
+    text-decoration: none;
+}
+.add{
+    margin-left: 40px;
+    text-decoration: none;
+
+}
+.input{
+    margin-left: 100px;
+    width: 600px;
+}
